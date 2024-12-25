@@ -28,7 +28,6 @@ Loading the dataset.
 Exploratory Data Analysis (EDA) to check for inconsistencies.
 Visualization to understand distributions and correlations.
 5. Modeling Workflow (Implied)
-Although not explicitly summarized here, the notebook likely proceeds to:
 Feature selection based on the analysis.
 Building machine learning models to predict campaign success.
 Evaluating models using metrics such as accuracy, precision, recall, and F1 score, especially given the data imbalance.
